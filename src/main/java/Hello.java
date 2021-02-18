@@ -1,5 +1,5 @@
 public class Hello {
-    private String str="";
+    private String str="testing";
     public String getS(){
         System.out.println("Hello World");
         System.out.println("Second Hello World");
